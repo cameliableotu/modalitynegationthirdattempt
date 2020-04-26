@@ -1,4 +1,4 @@
-var counterOverride = 0;
+
 
 // Do show progress bar (fine!!)
 var showProgressBar = true;
