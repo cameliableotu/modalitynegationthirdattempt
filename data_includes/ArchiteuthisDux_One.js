@@ -250,7 +250,7 @@ var items = [
 [["filler-semanticchoice",67],DS, {s:"Hainele de lângă femeile zâmbăreţe cad mereu."},"QuestionAlt", {q: "Cine/ce cade mereu?", as: ["Hainele","Femeile zâmbăreţe"]}],
 [["filler-semanticchoice",68],DS, {s:"Albinele de lângă portocalele stricate bȃzȃie prea tare."}],
 [["filler-semanticchoice",69],DS, {s:"Râul de lângă pădurea frumoasă curge adesea vara."}],
-[["filler-semanticchoice",70],DS, {s:"Urşii de lângă prinţesele minunate se căsătoresc."},"QuestionAlt", {q: "Cine se căsătoresc?", as: ["Urşii","Prinţesele minunate"]}],
+[["filler-semanticchoice",70],DS, {s:"Urşii de lângă prinţesele minunate hibernează."},"QuestionAlt", {q: "Cine hibernează?", as: ["Urşii","Prinţesele minunate"]}],
 [["filler-semanticchoice",71],DS, {s:"Florile de lângă sticlele albastre se ofilesc mereu."}],
 [["filler-semanticchoice",72],DS, {s:"Calculatoarele de lângă copiii năzdrăvani se strică uneori."}],
 
