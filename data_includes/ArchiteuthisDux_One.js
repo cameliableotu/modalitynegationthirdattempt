@@ -13,8 +13,7 @@ var shuffleSequence = seq(
      'debrief');
 
 // Using modified controller coded by Ethan Poole (Umass, 2017)
-// Disallows use of mouse for responses.
-var DS = 'EPDashedSentence';
+var DS= 'EPDashedAcceptabilityJudgment';
 
 //  Set the Prolific Academic Completion URL
 var sendingResultsMessage = "Vă rugăm să aşteptaţi. Răspunsurile dumneavoastră se trimit serverului."; 
